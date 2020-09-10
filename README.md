@@ -1,10 +1,10 @@
 
 
-# Kinetic27&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/sans.gif" width="30px"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKinetic27%2FKinetic27)](https://hits.seeyoufarm.com) 
+# kimgibaam&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/sans.gif" width="30px"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKinetic27%2FKinetic27)](https://hits.seeyoufarm.com) 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Kinetic's%20Github&fontSize=40)
 
-### Hello world!&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px">
+### Hello world!&nbsp;<img src="https://github.com/kimgibaam/kimgibaam/blob/master/earth.gif" width="24px">
 
 <p>
   <em>
@@ -14,12 +14,12 @@
   </em>  
 </p>
 
-![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=Kinetic27&show_icons=true)
+![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=kimgibaam&show_icons=true)
 
 ### Online Judge 💻
 
-* BOJ: [Kinetic27](http://icpc.me/kinetic27)
-  * solvedac: [Kinetic27](https://solved.ac/profile/kinetic27)
+* BOJ: [kimgibaam](http://icpc.me/kinetic27)
+  * solvedac: [kimgibaam](https://solved.ac/profile/kinetic27)
   
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kinetic27)](https://solved.ac/kinetic27)
 
