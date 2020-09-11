@@ -1,10 +1,10 @@
 # Welcome!
 
 ## developer Kim Gibeom
-  - majoring in computer science at Chonnam National University.
-  - field of interest : IoT, data science, system software, application
-  - language : C, C++, Python, JAVA
-  - contact : rlqjarhrh@naver.com
+  - Majoring in Computer Information and Communication Engineering at Chonnam National University.
+  - Field of interest : IoT, data science, system software, application
+  - Language : C, C++, Python, JAVA
+  - Contact : rlqjarhrh@naver.com
 ---------------------------------------------------------------------------------------
   
 ### repository
