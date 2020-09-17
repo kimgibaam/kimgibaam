@@ -5,7 +5,4 @@
   - Field of interest : IoT, data science, system software, application
   - Language : C, C++, Python, JAVA
   - Contact : rlqjarhrh@naver.com
----------------------------------------------------------------------------------------
-  
-### repository
-  - Algorithm
+
